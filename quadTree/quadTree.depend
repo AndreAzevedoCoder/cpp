@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582769064 source:/home/pc/Documentos/cpp/quadTree/main.cpp
+	<iostream>
+	<quadTree.h>
+
+1582769184 /home/pc/Documentos/cpp/quadTree/include/quadTree.h
+
